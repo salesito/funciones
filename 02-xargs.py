@@ -7,6 +7,7 @@ def suma(*numeros):
 
 suma(2, 1)
 suma(3, 4, 7, 8, 9)
+suma(4, 5)
 
 
 # def suma(n1, n2):
